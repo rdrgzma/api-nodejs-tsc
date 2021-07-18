@@ -5,6 +5,8 @@ npm i -g nodemon typescript ts-node
 
 ## Instalação
 npm install
+
+&nbsp;
 Renomear o arquivo .env-example para .env
 
 ## Para rodar o projeto
